@@ -2,7 +2,7 @@
 
 <----------------------------------------------------->
 
-git clone https://github.com/shirazklay/IP_changer.git
+git clone https://github.com/shirazklay/IP_changer
 
 cd IP_changer
 
