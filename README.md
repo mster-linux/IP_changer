@@ -6,9 +6,9 @@ git clone https://github.com/shirazklay/IP_changer
 
 cd IP_changer
 
-chmod +x IP_canger
+chmod +x IP_canger.py
 
-python IP_changer
+python IP_changer.py
 
 <----------------------------------------------------->
 
