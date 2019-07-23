@@ -12,8 +12,6 @@ python IP_changer.py
 
 <----------------------------------------------------->
 
-youtube :https://youtube.com/yashH-KLAY
-
 github  :https://github.com/shirazklay
 
 <----------------------------------------------------->
