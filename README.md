@@ -2,7 +2,7 @@
 
 <----------------------------------------------------->
 
-git clone https://github.com/shirazklay/IP_changer
+git clone https://github.com/mster-linux/IP_changer
 
 cd IP_changer
 
@@ -12,6 +12,6 @@ python IP_changer.py
 
 <----------------------------------------------------->
 
-github  :https://github.com/shirazklay
+github  :https://github.com/mster-linux
 
 <----------------------------------------------------->
